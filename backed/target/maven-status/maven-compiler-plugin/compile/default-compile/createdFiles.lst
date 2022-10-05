@@ -1,0 +1,6 @@
+com/backend/backed/controller/StudentController.class
+com/backend/backed/model/Student.class
+com/backend/backed/repository/StudentRepository.class
+com/backend/backed/BackedApplication.class
+com/backend/backed/service/StudentService.class
+com/backend/backed/ServiceImp/StudentServiceImplementation.class
