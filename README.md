@@ -1,7 +1,7 @@
 # Full-stack-Simple-CRUD-app
 
-#FrontEnd
-  -> React JS
-#Backed
-  -> Spring boot
-  -> MongoDb
+# FrontEnd <br /> 
+   <b>-> React JS <br />  </b>
+# Backed <br />
+  <b>-> Spring boot <br />   </b>
+  <b>-> MongoDb   </b>
