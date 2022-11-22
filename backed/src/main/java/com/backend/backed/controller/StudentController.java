@@ -14,6 +14,10 @@ public class StudentController {
     @Autowired
     private StudentService studentService;
 
+    @GetMapping
+    public String welcome(){
+        return "Welcome testing";
+    }
     @PostMapping("/addStudent")
     public String addStudent(@RequestBody Student student){
         return studentService.addStudent(student);
